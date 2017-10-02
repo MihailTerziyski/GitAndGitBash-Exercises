@@ -1,5 +1,5 @@
 # GitAndGitBash-Exercises
-Execrcies - Homework
+Exercises - Homework
 
 Changed from local repository.
 and
