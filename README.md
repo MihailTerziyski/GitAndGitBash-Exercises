@@ -13,4 +13,6 @@ Changed with GitBash.
 The problem is resolved. 
 
 Changed from the master branch(with GitBash).
+Changed from the develop branch(with GitBash).
+
 
