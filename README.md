@@ -8,3 +8,5 @@ The conflict is resolved.
 Changed from the master branch.
 Changed from the develop branch.
 
+Changed with GitBash.
+
