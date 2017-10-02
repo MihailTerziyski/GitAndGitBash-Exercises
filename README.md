@@ -12,3 +12,5 @@ Changed from the develop branch.
 Changed with GitBash.
 The problem is resolved. 
 
+Changed from the develop(GitBash) branch.
+
