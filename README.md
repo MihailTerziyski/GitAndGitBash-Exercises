@@ -4,4 +4,5 @@ Changed from local repository.
 and
 Changed from web.
 The conflict is resolved.
+Changed from the master branch.
 
